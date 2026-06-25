@@ -1,0 +1,33 @@
+(cnnsat) PS C:\projects\assignments\Face Recog> & C:/Users/purbe/.conda/envs/cnnsat/python.exe "c:/projects/assignments/Face Recog/main.py"
+loading data...
+start training
+Epoch 1 | Loss: 3.787 | Acc: 16.5% | Val Loss: 3.580 | Val Acc: 20.7%
+Epoch 2 | Loss: 3.664 | Acc: 17.0% | Val Loss: 3.450 | Val Acc: 21.2%
+Epoch 3 | Loss: 3.468 | Acc: 18.0% | Val Loss: 3.177 | Val Acc: 24.3%
+Epoch 4 | Loss: 3.132 | Acc: 21.5% | Val Loss: 2.881 | Val Acc: 30.6%
+Epoch 5 | Loss: 2.835 | Acc: 26.8% | Val Loss: 2.569 | Val Acc: 37.2%
+Epoch 6 | Loss: 2.491 | Acc: 34.5% | Val Loss: 2.273 | Val Acc: 42.0%
+Epoch 7 | Loss: 2.114 | Acc: 43.2% | Val Loss: 1.988 | Val Acc: 47.6%
+Epoch 8 | Loss: 1.814 | Acc: 50.2% | Val Loss: 1.713 | Val Acc: 56.4%
+Epoch 9 | Loss: 1.581 | Acc: 56.5% | Val Loss: 1.601 | Val Acc: 58.3%
+Epoch 10 | Loss: 1.333 | Acc: 61.7% | Val Loss: 1.512 | Val Acc: 61.5%
+Epoch 11 | Loss: 1.141 | Acc: 67.7% | Val Loss: 1.447 | Val Acc: 63.6%
+Epoch 12 | Loss: 0.984 | Acc: 70.8% | Val Loss: 1.311 | Val Acc: 66.9%
+Epoch 13 | Loss: 0.878 | Acc: 74.7% | Val Loss: 1.308 | Val Acc: 69.1%
+Epoch 14 | Loss: 0.766 | Acc: 77.1% | Val Loss: 1.230 | Val Acc: 69.8%
+Epoch 15 | Loss: 0.638 | Acc: 79.9% | Val Loss: 1.265 | Val Acc: 71.6%
+Epoch 16 | Loss: 0.590 | Acc: 82.3% | Val Loss: 1.188 | Val Acc: 71.7%
+Epoch 17 | Loss: 0.487 | Acc: 85.3% | Val Loss: 1.203 | Val Acc: 73.6%
+Epoch 18 | Loss: 0.499 | Acc: 84.3% | Val Loss: 1.181 | Val Acc: 74.4%
+Epoch 19 | Loss: 0.381 | Acc: 88.4% | Val Loss: 1.294 | Val Acc: 74.5%
+Epoch 20 | Loss: 0.370 | Acc: 88.4% | Val Loss: 1.228 | Val Acc: 74.4%
+Epoch 21 | Loss: 0.345 | Acc: 89.2% | Val Loss: 1.296 | Val Acc: 73.1%
+Epoch 22 | Loss: 0.275 | Acc: 91.2% | Val Loss: 1.344 | Val Acc: 75.2%
+Epoch 23 | Loss: 0.269 | Acc: 91.3% | Val Loss: 1.200 | Val Acc: 74.9%
+Epoch 24 | Loss: 0.267 | Acc: 91.5% | Val Loss: 1.238 | Val Acc: 76.0%
+Epoch 25 | Loss: 0.233 | Acc: 92.7% | Val Loss: 1.312 | Val Acc: 76.0%
+Epoch 26 | Loss: 0.197 | Acc: 93.7% | Val Loss: 1.327 | Val Acc: 75.0%
+Epoch 27 | Loss: 0.233 | Acc: 92.9% | Val Loss: 1.240 | Val Acc: 76.9%
+Epoch 28 | Loss: 0.188 | Acc: 94.3% | Val Loss: 1.454 | Val Acc: 75.0%
+Epoch 29 | Loss: 0.203 | Acc: 92.6% | Val Loss: 1.278 | Val Acc: 74.9%
+Epoch 30 | Loss: 0.189 | Acc: 93.8% | Val Loss: 1.316 | Val Acc: 76.5%
